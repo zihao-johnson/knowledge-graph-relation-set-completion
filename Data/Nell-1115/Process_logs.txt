@@ -1,0 +1,33 @@
+-----Log at 17:58:36 - Oct 21, 2025 ----- (all.txt)Using file: NELL.08m.1115.esv.csv, saving to: all.txt...
+ALL Numnber of entity: 593878, ALL number of relations: 832, ALL number of triplets: 644892
+SAMPLE Numnber of entity: 20297, SAMPLE number of relations: 367, SAMPLE number of triplets: 50156
+
+Statistic information of each sampled subgraph:Sampled subgraph No.0	component_id:0
+	nodes:20297
+	edges:50156
+	avg_degree:4.942208208109573
+	relations_No:367
+	entity_No:20297
+	triplets_No:50156
+
+
+-----Log at 15:46:21 - Oct 22, 2025 ----- (all.txt)Using file: NELL.08m.1115.esv.csv, saving to: all.txt...
+ALL Numnber of entity: 593878, ALL number of relations: 832, ALL number of triplets: 644892
+SAMPLE Numnber of entity: 21001, SAMPLE number of relations: 426, SAMPLE number of triplets: 49989
+
+Statistic information of each sampled subgraph:Sampled subgraph No.0	component_id:0
+	nodes:20999
+	edges:49967
+	avg_degree:4.758988523263013
+	relations_No:426
+	entity_No:20999
+	triplets_No:49967
+Sampled subgraph No.1	component_id:2
+	nodes:2
+	edges:22
+	avg_degree:22.0
+	relations_No:20
+	entity_No:2
+	triplets_No:22
+
+
